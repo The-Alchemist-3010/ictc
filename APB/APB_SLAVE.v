@@ -1,4 +1,4 @@
-module APB_SLAVE (
+module APB_SLAVE ( // Mình thay đổi 1 tí nhé //
 	input wire clk,
 	input wire rst_n,
 	input wire psel,
